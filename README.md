@@ -1,0 +1,27 @@
+# Data-Analysis-in-Health-Care
+
+This project is dedicated to exploring the realm of healthcare through data-driven insights and analysis. The aim of this project is to leverage data science methodologies to understand, interpret, and derive meaningful conclusions from healthcare-related datasets.
+
+This project will discuss various problems and suggest answers related to these topics like:
+
+a. Randomization and study blindness; Outcome adaptive randomization; Sample size/power; Hypothesis testing vs. estimation
+
+b. Data collection and quality control; Statistical methods for trial monitoring; Early termination due to toxicity, efficacy, of lack of efficacy
+
+c. Phase I – traditional 3+3 design and the continuous reassessment method (CRM)
+
+d. Phase II – single arm designs, one-stage and multi-stage designs, designs based on predictive probability, and Phase II – randomized designs.
+
+e. Bayesian Design: Bayesian sample size calculation; Beta-binomial models and methods for binary outcomes.
+
+f. More Bayesian Design: Bayesian sample size calculation; Beta-binomial models and methods for binary outcomes.
+
+g. Adaptive designs using binary endpoints; Response-adaptive randomization;
+
+h. Phase III study: Repeated significance testing
+
+i. More Phase III study: Repeated significance testing
+
+j. Phase III design: Classical sequential methods; Group sequential methods; Interim analysis
+
+k. Sample size calculation in phase III study
