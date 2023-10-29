@@ -1,7 +1,4 @@
 
-# Student Name : Asif Rahman
-# HW -2 
-
 #------------------
 
 # Answer to the Question # 01
