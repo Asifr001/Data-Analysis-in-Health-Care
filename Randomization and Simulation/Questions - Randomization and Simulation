@@ -1,0 +1,27 @@
+1.	An experiment is performed to determine whether a coin flip is fair. Suppose that experimental results show the coin turning up heads 15 times out of 20 total flips. What is the chance of a fair coin landing on heads at least 15 times out of 20 flips? Here is a simulation study to find the result. 
+
+(1)	take a sample x1 from Binomial(n,p) with n = 20 and p = 0.5 (x1 <- rbinom(1, 20, 0.5), for example), what is the value of x1? what is the range of x1 value? 
+(2)	Repeat (1) for N=1,00,000 times:  x1,…, x100000. Plot a histogram of x1,…, x100000
+(3)	Define yi as follows: yi = 1 if xi ≥15; yi = 0 otherwise.
+(4)	calculate  yi 
+(5)	Repeat sub-questions (1) - (5) for Binomial(n,p) with n = 20 and p = 0.85 (the alternative hypothesis).
+(6)	Make a guess of type I and type II errors for H0: p0 = 0.5 versus H1: p1 = 0.85 under this setting (i.e., a sample size of 20 with a cutoff of 15). 
+
+2.	Suppose the treatment assignments are the results listed below, apply a test to test whether the process is random:
+
+2 2 1 2 2 2 1 1 2 1 1 2 2 1 1 2 1 2 2 2 1 2 1 2 1 2 2 2 2 2 2 2 2 1 2 1 2 1 2 2
+
+
+3.	With Prob(Treatment = ”A”) = Prob (Treatment = “B”) = 0.5, generate a sequence of 40 random treatment assignments (N = 40) in R.  Please attach the computer codes for all questions.
+
+a)	Using simple randomization in R as follows:
+
+(1)	take a sample x1 from Binomial(n,p) with n = 1 and p = 0.5 (x1 <- rbinom(1, 1, 0.5), for example), what is the range of x1 value?
+
+(2)	Patient 1 will get “A” if x1=1, and get “B” if x1=0
+
+(3)	repeat (1) and (2) for N = 40 and you are making a random list with “A” or “B” (a vector with length of 40). How many “A” and “B” in this random list?
+ 
+b)	Using random permutated block randomization with a block size of 40 (including 20 “A”s and 20 “B”s). What is the difference between (a) and (b)?
+
+c)	Using random permutated block randomization with a block size of 8 (you will need to construct 5 blocks (since 5x8 = 40) and put them together to get a total sample size of 40. What is the difference of treatment distributions between (b) and (c) if the study stops early on the halfway due to toxicity (i.e., the study is closed at 20 patients)? 
