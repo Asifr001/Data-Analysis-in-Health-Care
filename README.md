@@ -1,8 +1,8 @@
 # Data-Analysis-in-Health-Care
 
-This project is dedicated to exploring the realm of healthcare through data-driven insights and analysis. The aim of this project is to leverage data science methodologies to understand, interpret, and derive meaningful conclusions from healthcare-related datasets.
+This project is dedicated to exploring the realm of healthcare through data-driven insights and analysis. This project aims to leverage data science methodologies to understand, interpret, and derive meaningful conclusions from healthcare-related datasets.
 
-This project will discuss various problems and suggest answers related to these topics like:
+This project will start with basic statistical ideas and then step by step discuss various problems and suggest answers related to these topics:
 
 a. Randomization and study blindness; Outcome adaptive randomization; Sample size/power; Hypothesis testing vs. estimation
 
