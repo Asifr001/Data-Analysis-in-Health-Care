@@ -25,3 +25,6 @@ i. More Phase III study: Repeated significance testing
 j. Phase III design: Classical sequential methods; Group sequential methods; Interim analysis
 
 k. Sample size calculation in phase III study
+
+
+I prepared all the answers and R codes mentioned in this project. Obviously, there could be better ways to solve those.
