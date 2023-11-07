@@ -1,8 +1,8 @@
-This folder contains some basic questions regarding Pocock Simon Dynamic Randomization and 3+3 design. And also about the main objective of phase I clinical trials, predetermined dose-limiting toxicity (DLT) and Maximum tolerated dose (MTD). This folder has one question (doc) file 3 separate answer files - 
+This folder contains some basic questions regarding Pocock Simon Dynamic Randomization and 3+3 design. And also about the main objective of phase I clinical trials, predetermined dose-limiting toxicity (DLT) and Maximum tolerated dose (MTD). This folder has one question (doc) file and 3 separate answer files - 
 
-1. An Excel sheet for Pocock-Simon dynamic randomization method 
+1. An Excel sheet for Pocock - Simon dynamic randomization method 
 
-2. R code file for 3+3 design and 
+2. R code file for answering the questions related to 3 + 3 design and 
 
 3. A pdf explaining everything.
 
