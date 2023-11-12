@@ -4,7 +4,7 @@
 
 #------------------
 
-# 1 of Q.1 
+# No 1 of Q.1 
 
 #a) 
 
@@ -12,6 +12,7 @@
 
 x1 <- rbinom(1, 20, 0.5)
 
+#For Answer
 x1
 
 
@@ -25,7 +26,7 @@ n <- 20
 p <- 0.5
 
 
-# Find the minimum value
+# Find the min value
 
 min_value <- min(0, n)
 
