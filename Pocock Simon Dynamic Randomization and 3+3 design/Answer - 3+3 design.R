@@ -1,19 +1,22 @@
 # ---------------------------------------------
 # Answer to the Question # 3
 # ---------------------------------------------
-#Answer for 3 – (a) : 10000 simulations in R
 
-# (1) Dosage that has low toxicity probability of 0.1:
+#Answer for 3 – (a): 10000 simulations in R
+
+# (1) Dosage that has a low toxicity probability of 0.1:
 
 # Setting 10000 simulations
+
 N <- 10000
 
-#Probability of the toxicity
+#Probability of the toxicity (given in the question)
+
 pT<- 0.10
 
 # Put 1 if dose-escalation is happening. Put 0 otherwise.
 
-# (Otherwise Means = MTD or no dose-escalation)
+# ( Here Otherwise Means = MTD or no dose-escalation)
 
 #As it is a 3+3 design cohort size =3
 
