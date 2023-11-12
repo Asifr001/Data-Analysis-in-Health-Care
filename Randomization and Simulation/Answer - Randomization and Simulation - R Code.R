@@ -26,11 +26,11 @@ n <- 20
 p <- 0.5
 
 
-# Find the min value
+# Finding and defining the minimum value
 
 min_value <- min(0, n)
 
-# Find the maximum value
+# Finding and defining the maximum value
 
 max_value <- max(0:n)
 
