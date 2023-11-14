@@ -4,7 +4,7 @@
 
 #Answer for 3 – (a): 10000 simulations in R
 
-# (1) Dosage that has a low toxicity probability of 0.1:
+# (1) For the dosage that has a low toxicity probability of 0.1:
 
 # Setting 10000 simulations
 
@@ -40,7 +40,7 @@ for ( i in 1:N){
 }
 sum(res/N)
 
-# (2) Dosage that has medium toxicity probability of 0.3:
+# (2) For the dosage that has medium toxicity probability of 0.3:
 
 # Setting 10000 simulations
 N <- 10000
