@@ -8,7 +8,7 @@
 
 #a) 
 
-# Taking a sample 
+# Taking a sample with n = 20 and p = 0.5
 
 x1 <- rbinom(1, 20, 0.5)
 
