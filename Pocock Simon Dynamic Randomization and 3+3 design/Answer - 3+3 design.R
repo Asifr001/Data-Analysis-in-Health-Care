@@ -18,7 +18,7 @@ pT<- 0.10
 
 # ( Here Otherwise Means = MTD or no dose-escalation)
 
-#As it is a 3+3 design cohort size =3
+#As it is a 3+3 design, cohort size = 3
 
 escalation <- function(pT)         
 {
@@ -40,7 +40,7 @@ for ( i in 1:N){
 }
 sum(res/N)
 
-# (2) For the dosage that has medium toxicity probability of 0.3:
+# (2) For the dosage that has a medium toxicity probability of 0.3:
 
 # Setting 10000 simulations
 N <- 10000
@@ -50,9 +50,9 @@ pT<- 0.3
 
 # Put 1 if dose-escalation is happening. Put 0 otherwise.
 
-# (Otherwise Means = MTD or no dose-escalation)
+# (Here, Otherwise Means = MTD or no dose-escalation)
 
-#As it is a 3+3 design cohort size =3
+#As it is a 3+3 design, cohort size =3
 
 escalation <- function(pT)         
 {
