@@ -12,7 +12,7 @@
 
 x1 <- rbinom(1, 20, 0.5)
 
-#For Answer
+#The value of x1
 x1
 
 
