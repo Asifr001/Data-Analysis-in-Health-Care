@@ -18,7 +18,7 @@ x1
 
 #b) 
 
-#Finding the range for x1
+#Finding the range for x1 with n = 20 and p = 0.5
 
 
 n <- 20
