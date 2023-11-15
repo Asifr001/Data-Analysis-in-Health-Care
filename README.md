@@ -26,4 +26,6 @@ j. Phase III design: Classical sequential methods; Group sequential methods; Int
 
 k. Sample size calculation in phase III study
 
-I prepared all the answers and R codes mentioned in this project. Obviously, there could be better ways to solve those.
+This repository will have both theoretical questions as well as analytical questions for better understanding.
+
+I prepared all the answers and R codes mentioned in this project. Obviously, there could be better ways to solve those. Any suggestion will be highly appreciated.
