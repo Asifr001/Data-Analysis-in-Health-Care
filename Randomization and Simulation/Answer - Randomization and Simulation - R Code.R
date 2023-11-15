@@ -70,7 +70,7 @@ x
 
 hist(x)
 
-
+#Find the minimum and maximum value
 
 max(x)
 
