@@ -83,7 +83,11 @@ N <- 10000
 #Probability of the toxicity
 pT<- 0.6
 
-------------------------------------------------
+# Put 1 if dose-escalation is happening. Put 0 otherwise.
+
+# (Otherwise Means = MTD or no dose-escalation)
+
+# As it is a 3+3 design cohort size =3
 
 escalation <- function(pT)         
 {
