@@ -6,7 +6,7 @@ This project will start with basic statistical ideas and then step by step discu
 
 a. Randomization and study blindness; Outcome adaptive randomization; Sample size/power; Hypothesis testing vs. estimation
 
-b. Data collection and quality control; Statistical methods for trial monitoring; Early termination due to toxicity, efficacy, of lack of efficacy
+b. Data collection and quality control; Statistical methods for trial monitoring; Early termination due to toxicity, efficacy, or lack of efficacy
 
 c. Phase I – traditional 3+3 design and the continuous reassessment method (CRM)
 
@@ -26,6 +26,6 @@ j. Phase III design: Classical sequential methods; Group sequential methods; Int
 
 k. Sample size calculation in phase III study
 
-This repository will have both theoretical questions as well as analytical questions for better understanding.
+
 
 I prepared all the answers and R codes mentioned in this project. Obviously, there could be better ways to solve those. Any suggestion will be highly appreciated.
