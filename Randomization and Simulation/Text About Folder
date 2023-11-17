@@ -1,2 +1,4 @@
 This folder contains some sample questions and answers related to clinical Randomization and Simulation. Here at first, problems related to binomial distribution, and type I and II errors were discussed. Finally, permutated block randomization with a block size of both 8 and 40 were discussed. 
 It contains one doc file for questions and another R code file for answers. The question file contains only analytical questions. No theoretical questions were discussed. Each question has a different subgroup.
+
+All the answers mentioned here are prepared by me. Obviously, there could be better ways to solve those.
