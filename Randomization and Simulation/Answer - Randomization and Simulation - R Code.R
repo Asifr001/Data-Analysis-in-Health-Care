@@ -212,9 +212,7 @@ sum(y_1) / N
 
 # To find the probability of a type II error, we know that for the alternative hypothesis, p1 = 0.85. By calculating on the calculator, we got that the chance of a fair coin landing on heads at least 15 times out of 20 flips when p1 = 0.85 is approximately 0.408. This means we would fail to reject the null hypothesis and conclude that the proportion is not significantly different from 0.5 in about 40.8% of the cases.
 
-
-
-
+# In summary, the estimated probabilities of making a type I error and a type II error for this hypothesis test are approximately 0.026 and 0.408, respectively.
 
 
 
@@ -223,6 +221,7 @@ sum(y_1) / N
 #Answer to the Q. 2 :
 
 # ---------------------------------------------
+
 
 # Here is the sample: 2 2 1 2 2 2 1 1 2 1 1 2 2 1 1 2 1 2 2 2 1 2 1 2 1 2 2 2 2 2 2 2 2 1 2 1 2 1 2 2
 
@@ -251,7 +250,7 @@ sum(y_1) / N
 
 # And the sum is taken over all categories.
 
-# By using online calculator and plugging the numbers, we got that:
+# By using an online calculator and plugging the numbers, we got that:
   
   
 # χ2 = ((18-20)²/20) + ((22-20)²/20) = 0.4
@@ -457,7 +456,7 @@ b
 
 table(b)
 
-# The difference between 3(b) and 3 (c) is that - in 3 (b) , we used random permutated block randomization with a block size of 40. And for this case number of A and B is same. For my case , it was A = 20 and B = 20. But, in 3 (c) though we used random permutated block randomization, but this time with a block size of 8. After that we added all the 8 blocks so total sample is 40. And for this case number of A and B is not same. For my case , it was A = 24 and B = 16. 
+# The difference between 3(b) and 3 (c) is that - in 3 (b), we used random permutated block randomization with a block size of 40. And for this case number of A and B is same. For my case , it was A = 20 and B = 20. But, in 3 (c) though we used random permutated block randomization, but this time with a block size of 8. After that we added all the 8 blocks so total sample is 40. And for this case number of A and B is not same. For my case , it was A = 24 and B = 16. 
 
 # If we stop the study for toxicity for in sample size = 20, then for 3 (b) = The difference between number of A and B will not be that much. 
 
