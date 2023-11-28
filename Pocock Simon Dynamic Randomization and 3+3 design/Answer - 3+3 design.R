@@ -75,7 +75,7 @@ for ( i in 1:N){
 sum(res/N)
 
 
-# (3) Dosage that has medium toxicity probability of 0.6:
+# (3) Dosage that has a medium toxicity probability of 0.6:
 
 # Setting 10000 simulations
 N <- 10000
