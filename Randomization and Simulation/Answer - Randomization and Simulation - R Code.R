@@ -421,11 +421,7 @@ treatments <- rep(c("A", "B"), length.out = block_size*5)
 blocks <- rep(1:5, each = block_size)
 
 
-
-
 # Randomly permute the blocks
-
-
 
 blocks <- sample(blocks)
 
@@ -460,4 +456,4 @@ table(b)
 
 # If we stop the study for toxicity for in sample size = 20, then for 3 (b) = The difference between number of A and B will not be that much. 
 
-# But, for 3 (c) = The difference between number of A and B will be more than 3 (b)
+# But, for 3 (c) = The difference between the number of A and B will be more than 3 (b)
