@@ -207,7 +207,7 @@ sum(y_1) / N
 
 # On the other hand, Type II error means we fail to reject the null hypothesis when it is actually false. It is also known as 'False Negative'. The probability of making a type II error is denoted by beta (B).
 
-# . This means we would fail to reject the null hypothesis and conclude that the proportion is not significantly different from 0.5 in about 40.8% of the cases.
+# To find the probability of a type II error, we know that for the alternative hypothesis, p1 = 0.85. By calculating on the calculator, we got that the chance of a fair coin landing on heads at least 15 times out of 20 flips when p1 = 0.85 is approximately 0.408. This means we would fail to reject the null hypothesis and conclude that the proportion is not significantly different from 0.5 in about 40.8% of the cases.
 
 # In summary, the estimated probabilities of making a type I error and a type II error for this hypothesis test are approximately 0.026 and 0.408, respectively.
 
