@@ -96,7 +96,7 @@ sum(y_1)
 
 #5 of Q.1 
 
-# Now repeating all the steps above for n = 20 and p =0.85
+# Now repeating all the steps above for n = 20 and p = 0.85
 
 
 #a) 
@@ -203,11 +203,11 @@ sum(y_1) / N
 # Type I error means we reject the null hypothesis when it is actually true. It is also known as 'False Positive'. The significance level or alpha (a) is the probability of making a type I error. We usually set it as 0.05 or 0.01.
 
 
-# The chance of a fair coin landing on heads at least 15 times out of 20 flips, we are using binomial distribution and a two-tailed test for this question. By calculating on the calculator it is found that the probability of getting 15 or more successes out of 20 trials when the p0 = 0.5 is approximately 0.026. So, it can be said that if the p0 = 0.5, we would reject the null hypothesis and conclude that the proportion is significantly different from 0.5 in about 2.6% of the cases.
+#  . By calculating on the calculator it is found that the probability of getting 15 or more successes out of 20 trials when the p0 = 0.5 is approximately 0.026. So, it can be said that if the p0 = 0.5, we would reject the null hypothesis and conclude that the proportion is significantly different from 0.5 in about 2.6% of the cases.
 
 # On the other hand, Type II error means we fail to reject the null hypothesis when it is actually false. It is also known as 'False Negative'. The probability of making a type II error is denoted by beta (B).
 
-# To find the probability of a type II error, we know that for the alternative hypothesis, p1 = 0.85. By calculating on the calculator, we got that the chance of a fair coin landing on heads at least 15 times out of 20 flips when p1 = 0.85 is approximately 0.408. This means we would fail to reject the null hypothesis and conclude that the proportion is not significantly different from 0.5 in about 40.8% of the cases.
+# . This means we would fail to reject the null hypothesis and conclude that the proportion is not significantly different from 0.5 in about 40.8% of the cases.
 
 # In summary, the estimated probabilities of making a type I error and a type II error for this hypothesis test are approximately 0.026 and 0.408, respectively.
 
