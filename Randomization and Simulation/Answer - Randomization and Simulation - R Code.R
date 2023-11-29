@@ -226,7 +226,7 @@ sum(y_1) / N
 # We have to test whether the sample is random or not.
 
 
-# To test whether the process of treatment assignments is random, we will use a chi-squared fit test. At first we will count the number of treatments of each type, and then compare the observed frequencies to the expected frequencies under the assumption of a random process.
+# To test whether the process of treatment assignments is random, we will use a chi-squared fit test. At first, we will count the number of treatments of each type, and then compare the observed frequencies to the expected frequencies under the assumption of a random process.
 
 # In this case, there are 40 treatments. Among them:
   
