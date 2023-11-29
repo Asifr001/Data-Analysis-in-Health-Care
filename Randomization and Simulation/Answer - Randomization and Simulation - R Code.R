@@ -203,7 +203,7 @@ sum(y_1) / N
 # Type I error means we reject the null hypothesis when it is actually true. It is also known as 'False Positive'. The significance level or alpha (a) is the probability of making a type I error. We usually set it as 0.05 or 0.01.
 
 
-#  . By calculating on the calculator it is found that the probability of getting 15 or more successes out of 20 trials when the p0 = 0.5 is approximately 0.026. So, it can be said that if the p0 = 0.5, we would reject the null hypothesis and conclude that the proportion is significantly different from 0.5 in about 2.6% of the cases.
+# The chance of a fair coin landing on heads at least 15 times out of 20 flips, we are using binomial distribution and a two-tailed test for this question. By calculating on the calculator it is found that the probability of getting 15 or more successes out of 20 trials when the p0 = 0.5 is approximately 0.026. So, it can be said that if the p0 = 0.5, we would reject the null hypothesis and conclude that the proportion is significantly different from 0.5 in about 2.6% of the cases.
 
 # On the other hand, Type II error means we fail to reject the null hypothesis when it is actually false. It is also known as 'False Negative'. The probability of making a type II error is denoted by beta (B).
 
