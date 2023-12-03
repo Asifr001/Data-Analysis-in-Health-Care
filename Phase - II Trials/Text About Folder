@@ -11,3 +11,5 @@ This folder contains some basic questions regarding -
 5. Phase II – single arm designs, one-stage and multi-stage designs, designs based on predictive probability
 
 6. Gehan’s two-stage design
+
+All the answers mentioned here are prepared by me including R code and theoretical answer. Of course, there could be better ways to solve those.
