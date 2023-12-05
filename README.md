@@ -28,6 +28,11 @@ k. Sample size calculation in phase III study
 
 This repository will have both theoretical questions as well as analytical questions for better understanding.
 
+For more details and a better understanding this book can be very helpful:
+
+Book name: Introduction to Statistical Methods for Clinical Trials by Thomas D. Cook and David L. DeMets 
+(Publication: Chapman & Hall/CRC. ISBN: 978-1-58488-027-1)
+
 I prepared all the answers and R codes mentioned in this project. Obviously, there could be better ways to solve those. Any suggestion will be highly appreciated.
 
 
