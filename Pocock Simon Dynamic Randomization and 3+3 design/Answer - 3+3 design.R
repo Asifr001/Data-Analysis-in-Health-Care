@@ -43,9 +43,11 @@ sum(res/N)
 # (2) For the dosage that has a medium toxicity probability of 0.3:
 
 # Setting 10000 simulations
+
 N <- 10000
 
 #Probability of the toxicity
+
 pT<- 0.3
 
 # Put 1 if dose-escalation is happening. Put 0 otherwise.
