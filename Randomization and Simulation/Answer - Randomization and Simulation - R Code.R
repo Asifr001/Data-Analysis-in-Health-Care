@@ -255,7 +255,7 @@ sum(y_1) / N
 
 # Therefore, we fail to reject the null hypothesis that the treatment assignments are random. In other words, there is no evidence to suggest that the process was biased or non-random.
 
-
+# [This question can be solved in multiple ways]
 
 # ---------------------------------------------
 
