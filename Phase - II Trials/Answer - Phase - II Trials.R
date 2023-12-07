@@ -3,7 +3,7 @@
 
 # Name: Asif Rahman
 
-# The answers that are not mentioned here are in the PDF file
+# The answers that are not mentioned here, will be in the PDF file
 
 # Answer to the question No. 1
 
@@ -242,7 +242,7 @@ exact_bi
 # Bootstrapping Method:
 
 
-# Sample size 200 and number of response 120:
+# Sample size 200 and number of responses 120:
 
 x <- 120
 
