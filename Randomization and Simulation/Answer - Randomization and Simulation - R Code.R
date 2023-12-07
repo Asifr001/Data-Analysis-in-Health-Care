@@ -83,8 +83,8 @@ min(x)
 # Now setting if x is bigger or less than 15 then y = 1 . And y = 0 otherwise.
 
 y_1 <- ifelse(c(x)>=15, 1,0)
-y_1
 
+y_1
 
 
 # 4 of Q.1
@@ -171,8 +171,8 @@ min(x)
 # Now setting if x is bigger or less than 15 then y = 1 . And y = 0 otherwise
 
 y_1 <- ifelse(c(x)>=15, 1,0)
-y_1
 
+y_1
 
 #e. 
 
@@ -186,8 +186,6 @@ sum(y_1)
 #Calculating summation of y divided by N
 
 sum(y_1) / N
-
-
 
 
 # ---------------------------------------------
