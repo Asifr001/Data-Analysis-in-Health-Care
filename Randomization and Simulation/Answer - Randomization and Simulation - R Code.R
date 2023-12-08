@@ -386,7 +386,7 @@ a
 
 table(a)
 
-# The difference between 3(a) and 3 (b) is that - in 3 (a) , though the probability is p = 0.5 , for the N = 40 , number of A and B is not same. For my case , A = 18 and B = 22. But, in 3 (b) we used random permutated block randomization with a block size of 40. And for this case number of A and B is same. For my case , A = 20 and B = 20.
+# The difference between 3(a) and 3 (b) is that - in 3 (a), though the probability is p = 0.5, for the N = 40, the number of A and B is not the same. For my case , A = 18 and B = 22. But, in 3 (b) we used random permutated block randomization with a block size of 40. And for this case number of A and B is same. For my case , A = 20 and B = 20.
 
 
 
