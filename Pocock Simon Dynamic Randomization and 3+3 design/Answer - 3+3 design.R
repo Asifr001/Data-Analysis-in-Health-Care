@@ -10,7 +10,7 @@
 
 N <- 10000
 
-#Probability of the toxicity (given in the question)
+# Probability of the toxicity (according to the question)
 
 pT<- 0.10
 
