@@ -147,7 +147,7 @@ boot.ci
 
 # So, I think Bayesian Analysis - for Beta(50,50) - (0.427523, 0.6052839)
 
-# has the smallest CI
+# has the smallest CI (As the difference between the upper limit and the lower limit is the smallest)
 
 
 # Answer to the question No. 1
