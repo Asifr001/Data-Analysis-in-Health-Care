@@ -41,7 +41,7 @@ upper
 
 # (b) - (ii)
 
-# Bayesian Analysis - for Beta(50,50)
+# Bayesian Analysis - for Beta(50,50) (given in the question)
 
 a1 <- 50
 
