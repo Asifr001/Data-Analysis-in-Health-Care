@@ -16,7 +16,7 @@ pT<- 0.10
 
 # Put 1 if dose-escalation is happening. Put 0 otherwise.
 
-# ( Here Otherwise Means = MTD or no dose-escalation)
+# ( Here, Otherwise Means = MTD or no dose-escalation)
 
 # As it is a 3 + 3 design, cohort size = 3
 
@@ -50,7 +50,7 @@ N <- 10000
 
 pT<- 0.3
 
-# Put 1 if dose-escalation is happening. Put 0 otherwise.
+# Put 1 if dose-escalation is happening and it is no=. Put 0 otherwise.
 
 # (Here, Otherwise Means = MTD or no dose-escalation)
 
