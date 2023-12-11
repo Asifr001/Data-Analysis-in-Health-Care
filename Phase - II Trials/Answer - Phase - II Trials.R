@@ -9,7 +9,7 @@
 
 # (b) - (i)
 
-# Bayesian Analysis - for Beta(1,1) (given in the question)
+# Bayesian Analysis - for a prior distribution Beta(1,1) (given in the question)
 
 a<- 1
 
