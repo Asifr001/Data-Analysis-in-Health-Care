@@ -52,7 +52,7 @@ range_binomial
 
 # No.2 of Question.1
 
-# Repeating Q.1 for N = 100000 times
+# Repeating Question.1 for N = 100000 times
 
 
 N <- 100000
