@@ -348,7 +348,7 @@ table(x)
 
 #Answer for 3 - b
 
-
+# Now we will use random permutated block randomization with a block size of 40 (including 20 “A”s and 20 “B”s)
 
 # Set the block size
 
@@ -382,7 +382,7 @@ a <- split(treatments, blocks)
 
 a
 
-#Number of A and B
+#Calculating the Number of A and B
 
 table(a)
 
