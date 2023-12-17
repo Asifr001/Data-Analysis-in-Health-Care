@@ -44,7 +44,7 @@ sum(res/N)
 
 # Setting 10000 simulations
 
-N <- 10000
+N <- 100
 
 #Probability of the toxicity
 
