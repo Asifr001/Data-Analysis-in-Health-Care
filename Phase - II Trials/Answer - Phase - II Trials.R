@@ -75,7 +75,7 @@ upper
 
 # (c)
 
-# Exact binomial distribution:
+# Based on Exact binomial distribution:
 
 # Total sample size
 
