@@ -6,7 +6,7 @@
 
 # (1) For the dosage that has a low toxicity probability of 0.1:
 
-# Setting 10000 simulations
+# Setting for 10000 simulations
 
 N <- 10000
 
