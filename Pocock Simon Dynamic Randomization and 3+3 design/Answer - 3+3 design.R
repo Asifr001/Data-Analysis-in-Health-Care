@@ -12,7 +12,7 @@ N <- 10000
 
 # Probability of the toxicity (according to the question)
 
-pT<- 0.10
+pT <- 0.10
 
 # Put 1 if dose-escalation is happening. Put 0 otherwise.
 
