@@ -103,7 +103,7 @@ exact_bi
 # Bootstrapping Method:
 
 
-# Sample size 20 and number of response 12:
+# Sample size 20 and number of responses 12:
 
 x <- 12
 
@@ -282,7 +282,7 @@ boot.ci
 
 # Bootstrapping Method: (0.53,0.665)
 
-# So, I think Normal distribution : (0.532,0.668) has the smallest CI
+# So, I think the Normal distribution : (0.532,0.668) has the smallest CI
 
 
 
