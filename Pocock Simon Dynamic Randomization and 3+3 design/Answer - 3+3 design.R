@@ -54,7 +54,7 @@ pT<- 0.3
 
 # (Here, Otherwise Means = MTD or no dose-escalation)
 
-#As it is a 3+3 design, cohort size =3
+#As it is a 3 + 3 design, cohort size =3
 
 escalation <- function(pT)         
 {
