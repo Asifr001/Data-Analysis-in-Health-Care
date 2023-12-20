@@ -15,7 +15,7 @@ a<- 1
 
 b<- 1
 
-# Total sample size
+# Total sample size, n = 20
 
 n <- 20
 
