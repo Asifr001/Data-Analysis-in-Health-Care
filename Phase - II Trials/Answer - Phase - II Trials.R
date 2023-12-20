@@ -19,7 +19,7 @@ b<- 1
 
 n <- 20
 
-# No. of response
+# Total number of response, s = 12
 
 s <- 12  
 
