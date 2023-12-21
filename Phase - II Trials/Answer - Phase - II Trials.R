@@ -25,7 +25,7 @@ s <- 12
 
 # For 95% CI calculation:
 
-# lower 95% CI
+# For lower 95% CI
 
 lower <- qbeta(0.025,s+a,n-s+b)
 
