@@ -50,7 +50,7 @@ range_binomial <- c(min_value, max_value)
 range_binomial
 
 
-# No.2 of Question.1
+# Answer to the question No.2 of Question.1
 
 # Repeating Question.1 of (1) for N = 1,00,000 times
 
