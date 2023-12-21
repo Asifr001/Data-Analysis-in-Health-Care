@@ -19,11 +19,11 @@ b<- 1
 
 n <- 20
 
-# Total number of response, s = 12
+# Total number of responses, s = 12
 
 s <- 12  
 
-# For 95% CI :
+# For 95% CI calculation:
 
 # lower 95% CI
 
