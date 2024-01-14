@@ -11,9 +11,9 @@
 
 # Bayesian Analysis - for a prior distribution Beta(1,1) (given in the question)
 
-a<- 1
+a <- 1
 
-b<- 1
+b <- 1
 
 # Total sample size, n = 20
 
@@ -283,7 +283,6 @@ boot.ci
 # Bootstrapping Method: (0.53,0.665)
 
 # So, I think the Normal distribution : (0.532,0.668) has the smallest CI
-
 
 
 # -----------------------------------------------------
