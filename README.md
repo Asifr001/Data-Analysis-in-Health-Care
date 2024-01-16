@@ -30,7 +30,10 @@ This repository will have both theoretical questions as well as analytical quest
 
 I prepared all the answers and R codes mentioned in this project. Obviously, there could be better ways to solve those. Any suggestion will be highly appreciated.
 
-For more details and a better understanding this book can be very helpful:
+For more details and a better understanding these 2 books can be very helpful:
 
-Book name: Introduction to Statistical Methods for Clinical Trials by Thomas D. Cook and David L. DeMets 
+1) Book name: Introduction to Statistical Methods for Clinical Trials by Thomas D. Cook and David L. DeMets 
 (Publication: Chapman & Hall/CRC. ISBN: 978-1-58488-027-1)
+
+2) Book name: Fundamentals of Clinical Trials (4th edition) by L.M. Friedman, C.D. Furberg and D.L. DeMets. 
+(Publication: New York: Springer. ISBN: 978-1-4419-1585-6)
