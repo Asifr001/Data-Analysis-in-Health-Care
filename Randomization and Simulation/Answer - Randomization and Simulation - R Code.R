@@ -335,7 +335,7 @@ x[x == 0] <- "B"
 print(x)
 
 
-#Number of A and B
+#To show Number of A and B
 
 table(x)
 
@@ -447,7 +447,7 @@ b
 
 table(b)
 
-# The difference between 3(b) and 3 (c) is that - in 3 (b), we used random permutated block randomization with a block size of 40. And for this case number of A and B are the same. For my case , it was A = 20 and B = 20. But, in 3 (c) though we used random permutated block randomization, but this time with a block size of 8. After that we added all the 8 blocks so total sample is 40. And for this case number of A and B is not same. For my case , it was A = 24 and B = 16. 
+# The difference between 3(b) and 3 (c) is that - in 3 (b), we used random permutated block randomization with a block size of 40. And for this case number of A and B are the same. For my case, it was A = 20 and B = 20. But, in 3 (c) though we used random permutated block randomization, but this time with a block size of 8. After that we added all the 8 blocks so total sample is 40. And for this case number of A and B is not same. For my case , it was A = 24 and B = 16. 
 
 # If we stop the study for toxicity for in sample size = 20, then for 3 (b) = The difference between number of A and B will not be that much. 
 
