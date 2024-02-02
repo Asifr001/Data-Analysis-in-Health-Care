@@ -335,7 +335,7 @@ x[x == 0] <- "B"
 print(x)
 
 
-#To show Number of A and B
+#To show the Number of A and B
 
 table(x)
 
@@ -386,7 +386,7 @@ a
 
 table(a)
 
-# The difference between 3(a) and 3 (b) is that - in 3 (a), though the probability is p = 0.5, for the N = 40, the number of A and B are not the same. In my case, A = 18 and B = 22. But, in 3 (b) we used random permutated block randomization with a block size of 40. And, for this case the number of A and B is same. For my case , A = 20 and B = 20.
+# The difference between 3(a) and 3 (b) is that - in 3 (a), though the probability is p = 0.5, for the N = 40, the number of A and B are not the same. In my case, A = 18 and B = 22. But, in 3 (b) we used random permutated block randomization with a block size of 40. And, for this case the number of A and B is the same. For my case, A = 20 and B = 20.
 
 
 
