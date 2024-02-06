@@ -44,7 +44,7 @@ sum(res/N)
 
 # Setting 10000 simulations
 
-N <- 100
+N <- 10000
 
 #Probability of the toxicity
 
@@ -83,9 +83,9 @@ sum(res/N)
 
 N <- 10000
 
-#Probability of the toxicity
+#Probability of the toxicity (pT)
 
-pT<- 0.6
+pT <- 0.6
 
 # Put 1 if dose-escalation is happening. Put 0 otherwise.
 
