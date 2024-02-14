@@ -4,9 +4,9 @@ This project is dedicated to exploring the realm of healthcare through data-driv
 
 This project will start with basic statistical ideas and then step by step discuss various problems and suggest answers related to these topics:
 
-a. Randomization and study blindness; Outcome adaptive randomization; Sample size/power; Hypothesis testing vs. estimation
+a. Randomization and study blindness; Outcome adaptive randomization; Sample size/power; Hypothesis testing vs. estimation.
 
-b. Data collection and quality control; Statistical methods for trial monitoring; Early termination due to toxicity, efficacy, or lack of efficacy
+b. Data collection and quality control; Statistical methods for trial monitoring; Early termination due to toxicity, efficacy, or lack of efficacy.
 
 c. Phase I – 3+3 design and also traditional 3+3 design and the continuous reassessment method (CRM)
 
