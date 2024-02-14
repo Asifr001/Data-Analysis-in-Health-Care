@@ -8,7 +8,7 @@ a. Randomization and study blindness; Outcome adaptive randomization; Sample siz
 
 b. Data collection and quality control; Statistical methods for trial monitoring; Early termination due to toxicity, efficacy, or lack of efficacy.
 
-c. Phase I – 3+3 design and also traditional 3+3 design and the continuous reassessment method (CRM)
+c. Phase I – 3+3 design and also traditional 3+3 design and the continuous reassessment method (CRM).
 
 d. Phase II – single arm designs, one-stage and multi-stage designs, designs based on predictive probability, and Phase II – randomized designs.
 
