@@ -1,8 +1,6 @@
 # -----------------------------------------------------
 # ----------------------------------------------------
 
-# Name: Asif Rahman
-
 # The answers that are not mentioned here, will be in the PDF file
 
 # Answer to the question No. 1
