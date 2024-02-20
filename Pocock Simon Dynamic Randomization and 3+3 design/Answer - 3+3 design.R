@@ -50,7 +50,7 @@ N <- 10000
 
 pT<- 0.3
 
-# Same as before, Put 1 if dose-escalation is happening and it is no=. Put 0 otherwise.
+# Same as before, Put 1 if dose-escalation is happening. Put 0 otherwise.
 
 # (Here, Otherwise Means = MTD or no dose-escalation)
 
